@@ -1,0 +1,69 @@
+{
+   "checksum": "02e77e208023a6404b647d636a09a4f3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13347274848379801",
+            "date_last_used": "0",
+            "guid": "d6676907-d5a5-4223-8e74-7bdfe08e9a73",
+            "id": "7",
+            "name": "Anime",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://animestars.org/"
+         }, {
+            "date_added": "13347274848426680",
+            "date_last_used": "0",
+            "guid": "daa65543-334e-4cfd-9ad9-cf58a92380c8",
+            "id": "8",
+            "name": "Комиксы",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://com-x.life/m"
+         }, {
+            "date_added": "13347274848442306",
+            "date_last_used": "0",
+            "guid": "b2d14e38-06d7-4460-9de8-dfd62365d26c",
+            "id": "9",
+            "name": "Манга",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://remanga.org/"
+         } ],
+         "date_added": "13359293975727935",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13359293975727938",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13359293975727940",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
